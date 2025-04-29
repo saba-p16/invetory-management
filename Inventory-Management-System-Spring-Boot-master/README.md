@@ -2,7 +2,7 @@
 
 Implementation of Backend API's for Common Inventory Management Use Case.
 
-The SmartInventory GitHub project is a full-stack Spring Boot inventory system integrated with Vaadin for the frontend. It includes a Maven build setup, production packaging instructions, and a modular folder structure for views, layout, and themes. The README.md provides clear setup instructions
+
 
 ## Installation
 
@@ -16,8 +16,10 @@ The SmartInventory GitHub project is a full-stack Spring Boot inventory system i
 mvn spring-boot:run
 ```
 
+![WhatsApp Image 2025-04-30 at 01 00 53_b22c0117](https://github.com/user-attachments/assets/1b70a6d7-e498-4df5-84e6-54e35301b4c7)
 
 
+![WhatsApp Image 2025-04-30 at 01 00 53_4de76213](https://github.com/user-attachments/assets/5178d094-52a5-477f-ad3c-0f22903ff9a5)
 
 
 ## Thank You!
